@@ -1,0 +1,1 @@
+var demo=document.getElementsByTagName("h1")[0];
